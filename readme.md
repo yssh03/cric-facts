@@ -57,7 +57,7 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 For any questions or feedback, feel free to reach out via:
 - **Email:** yash.r.0903@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yashpatelengineer)
+- **LinkedIn:** [Yash Patel](https://www.linkedin.com/in/yashpatelengineer)
 
 ---
 
